@@ -1,8 +1,11 @@
 # Drivable Area Segmentation
 Segment the Drivable area for a vehicle
 
+![temp_2](https://user-images.githubusercontent.com/60835780/184656413-c94d56af-afee-46dd-9b3a-62c05631bacb.GIF)
 
-The data for training was obtained from the [Berkeley Deep Drive Dataset](https://bdd-data.berkeley.edu). Only 3000 images were used for training, validation, and testing. With such a limited dataset, a pretrainined DeepLabV3 with a ResNet50 backbone was used. The data was augmented with random horizontal and vertical flips, color jitter, and random shadows.
+
+
+The data for training was obtained from the [Berkeley Deep Drive Dataset](https://bdd-data.berkeley.edu). The categories are: Drivable(red) and Adjacent (blue). Only 3000 images were used for training, validation, and testing. With such a limited dataset, a pretrainined DeepLabV3 with a ResNet50 backbone was used. The data was augmented with random horizontal and vertical flips, color jitter, and random shadows.
 
 Experiments revealed that the only fine tuning the classifier portion of the model led to inferior results when compared to fine tuning the entire model. The model was able to perform well on the data and even show decent generaliztion after a single epoch. 
 
