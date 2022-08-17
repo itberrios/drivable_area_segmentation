@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/60835780/184648802-954c6357-5427-43a4-
 
 
 
-#### A scenario in Paris where there are no lane line
+#### A scenario in Paris where there are no lane line except for a single adjacent lane
 https://user-images.githubusercontent.com/60835780/184653271-777aefe6-5a84-467d-a382-924c0686e175.mp4
 
 
