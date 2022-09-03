@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/60835780/184653271-777aefe6-5a84-467d-
 
 
 
+Full Paris Video: https://youtu.be/-dhIbaokAlQ
 
 
 
